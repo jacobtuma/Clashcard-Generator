@@ -1,2 +1,13 @@
 Question: Where is the bathroom? 
 Answer: Down the hall. 
+Question: Where is the milk?
+Answer: In the fridge, 
+Cloze
+ Question: My backpackMy,backpack,is,where,I,keep,my,notebook
+Cloze
+ Question: Where is the placeWhere is the place I put this? 
+Basic
+ Question: w
+Answer: w
+Cloze
+ Question: HEre wwHEre www ww w w
